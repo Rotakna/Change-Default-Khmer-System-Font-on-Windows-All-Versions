@@ -1,0 +1,33 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]
+
+"DaunPenh (TrueType)"=""
+"MoolBoran (TrueType)"=""
+"Khmer UI (TrueType)"=""
+"Khmer UI Bold (TrueType)"=""
+"PhnomPenh OT (TrueType)"=""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes]
+
+"DaunPenh"="Khmer OS Battambang"
+"MoolBoran"="Khmer OS Muol Light"
+"Khmer UI"="Hanuman UI"
+"Khmer UI Bold"="Hanuman UI Bold"
+"PhnomPenh OT"="Khmer OS Battambang"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Fonts]
+
+"DaunPenh (TrueType)"=""
+"MoolBoran (TrueType)"=""
+"Khmer UI (TrueType)"=""
+"Khmer UI Bold (TrueType)"=""
+"PhnomPenh OT (TrueType)"=""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\FontSubstitutes]
+
+"DaunPenh"="Khmer OS Battambang"
+"MoolBoran"="Khmer OS Muol Light"
+"Khmer UI"="Hanuman UI"
+"Khmer UI Bold"="Hanuman UI Bold"
+"PhnomPenh OT"="Khmer OS Battambang"
