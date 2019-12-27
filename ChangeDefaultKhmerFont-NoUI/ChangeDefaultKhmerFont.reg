@@ -1,0 +1,17 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]
+
+"DaunPenh (TrueType)"=""
+"MoolBoran (TrueType)"=""
+"PhnomPenh OT (TrueType)"=""
+"Khmer UI (TrueType)"="khmerui.ttf"
+"Khmer UI Bold (TrueType)"="khmeruib.ttf"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes]
+
+"DaunPenh"="Khmer OS Battambang"
+"MoolBoran"="Khmer OS Muol Light"
+"PhnomPenh OT"="Khmer OS Battambang"
+"Khmer UI"=""
+"Khmer UI Bold"=""
