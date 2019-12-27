@@ -1,0 +1,53 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]
+
+"DaunPenh (TrueType)"="daunpenh.ttf"
+"MoolBoran (TrueType)"="moolbor.ttf"
+"Khmer UI (TrueType)"="khmerui.ttf"
+"Khmer UI Bold (TrueType)"="khmeruib.ttf"
+"PhnomPenh OT (TrueType)"="PhnomPOT_Krung_gr.ttf"
+"Leelawadee (TrueType)"="LEELAWAD.TTF"
+"Leelawadee Bold (TrueType)"="LEELAWDB.TTF"
+"Leelawadee UI (TrueType)"="LeelawUI_0.ttf"
+"Leelawadee UI Bold (TrueType)"="LeelaUIb_0.ttf"
+"Leelawadee UI Semilight (TrueType)"="LeelUIsl_0.ttf"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes]
+
+"DaunPenh"=""
+"MoolBoran"=""
+"Khmer UI"=""
+"Khmer UI Bold"=""
+"PhnomPenh OT"=""
+"Leelawadee"=""
+"Leelawadee Bold"=""
+"Leelawadee UI"=""
+"Leelawadee UI Bold"=""
+"Leelawadee UI Semilight"=""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Fonts]
+
+"DaunPenh (TrueType)"="daunpenh.ttf"
+"MoolBoran (TrueType)"="moolbor.ttf"
+"Khmer UI (TrueType)"="khmerui.ttf"
+"Khmer UI Bold (TrueType)"="khmeruib.ttf"
+"PhnomPenh OT (TrueType)"="PhnomPOT_Krung_gr.ttf"
+"Leelawadee (TrueType)"="LEELAWAD.TTF"
+"Leelawadee Bold (TrueType)"="LEELAWDB.TTF"
+"Leelawadee UI (TrueType)"="LeelawUI_0.ttf"
+"Leelawadee UI Bold (TrueType)"="LeelaUIb_0.ttf"
+"Leelawadee UI Semilight (TrueType)"="LeelUIsl_0.ttf"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\FontSubstitutes]
+
+"DaunPenh"=""
+"MoolBoran"=""
+"Khmer UI"=""
+"Khmer UI Bold"=""
+"PhnomPenh OT"=""
+"Leelawadee"=""
+"Leelawadee Bold"=""
+"Leelawadee UI"=""
+"Leelawadee UI Bold"=""
+"Leelawadee UI Semilight"=""
