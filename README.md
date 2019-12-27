@@ -25,9 +25,10 @@ How to Change Default Khmer System Fonts:
 3. Select all fonts then right click and choose "Install for All Users"
 4. Right-click on "ChangeDefaultKhmeFont.reg" and select "Merge"
 5. Restart your PC and DONE!
+Note: If you have some issue with Khmer font in Microsoft Office apps or other Microsft Apps that display Khmer font as SQUAREs (Cuz of Khmer UI fonts), you might go to folder "ChangeDefaultKhmerFont-NoUI" instead and follow there form step 3.
 
 How to revert back to Default Khmer System Fonts:
-1. Download this project as Zip and Extract it on your PC.
+1. (You can skip it if you already download the project) Download this project as Zip and Extract it on your PC.
 2. Go to folder "RestoreDefaultKhmerFont"
 3. (You can skip this step) Select all fonts then right click and choose "Install for All Users"
 4. Right-click on "RestoreDefaultKhmeFont.reg" and select "Merge"
