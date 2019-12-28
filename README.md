@@ -35,3 +35,5 @@ How to revert back to Default Khmer System Fonts:
 5. Restart your PC and DONE!
 
 If you want to use other fonts than Khmer OS, you may edit "ChangeDefaultKhmeFont.reg" reg file as you like. But before that, make sure you have those fonts install beforehand.
+
+***Note: Not working for windows version 1903, 1909
