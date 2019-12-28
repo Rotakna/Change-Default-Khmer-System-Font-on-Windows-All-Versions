@@ -4,7 +4,7 @@ This is just a simple fix for Khmer fonts.
 Khmer Fonts that come with Windows are:
 1. DaunPenh (small size)
 2. MoolBoran (small size)
-3. PhnomPenh OT (small size)(for some PC)
+3. PhnomPenh OT (small size)(for some PC, you might install it by yourself)
 4. Khmer UI (ugly font)
 5. Khmer UI Bold (ugly font)
 
